@@ -3,3 +3,5 @@ ultralytics
 supervision
 opencv-python-headless
 numpy
+lapx
+cython
